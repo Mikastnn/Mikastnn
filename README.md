@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/miqu%c3%a9ias-feitosa-silva-b2b138145/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/miqu%c3%a9ias-feitosa-silva-b2b138145/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miquéias-feitosa-silva-b2b138145" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miquéias-feitosa-silva-b2b138145" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mikastnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mikastnn" height="30" width="40" /></a>
 <a href="https://instagram.com/miqueias_feitosa_silva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miqueias_feitosa_silva" height="30" width="40" /></a>
 </p>
@@ -22,4 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikastnn&show_icons=true&locale=en&layout=compact" alt="mikastnn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikastnn&show_icons=true&locale=en" alt="mikastnn" /></p>
+
 
