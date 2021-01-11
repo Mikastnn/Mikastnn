@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/miqu%c3%a9ias-feitosa-silva-b2b138145/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/miqu%c3%a9ias-feitosa-silva-b2b138145/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mikastnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mikastnn" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/miqueias_feitosa_silva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/miqueias_feitosa_silva/" height="30" width="40" /></a>
+<a href="https://instagram.com/miqueias_feitosa_silva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="miqueias_feitosa_silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikastnn&show_icons=true&locale=en&layout=compact" alt="mikastnn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikastnn&show_icons=true&locale=en" alt="mikastnn" /></p>
+
